@@ -24,6 +24,8 @@
 
 
 '''
+
+# Python api
 # from facepy import GraphAPI 
 # https://developers.facebook.com/tools/explorer/2060180224225613?method=GET&path=post-id&version=v2.12
 # AT = 'EAAdRuRZAwMU0BAMOnuuIkgrx6SZAPHpkqHnWWWyvsESZBdQGS5dhbFoUSAbX5VqwwLZAcAwmMtA1ZBWHawR7TwHZCsLDIyMNlz4nfb2ub1PzCt16xEsgB8ge8wpAXABXkSkxagrvmc6nyfBMMCZBK29pOsPy9gZAFcXPKgEtuqBpt7pV8p8keiKSC4fmyy9KxMFZCrmSraZBpbcgZDZD'
@@ -33,7 +35,7 @@
 '''
 
 '''
-
+# main intigration
 # link = d['entries'][1].get('link')
 # data = "Title => "+post.title+'\nSummary => '+soup.get_text()+'\nLink => '+link
 # graph.post('me/feed', message=data)
