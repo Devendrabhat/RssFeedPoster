@@ -1,6 +1,6 @@
 
-
-
+Best source to convert the normal news mail into news rss feeds
+https://www.kill-the-newsletter.com/
 
 '''
 # Basic commands for feeds
